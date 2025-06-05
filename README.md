@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Python Developer at AVB Invest – Investing in innovation by building scalable tech solutions for startups and high-growth businesses.<br>💡 Passionate about backend development, automation, and data-driven solutions to help businesses scale efficiently.<br>🔧 Tech Stack: Python, Django REST Framework, FastAPI, SQL/NoSQL, APIs,  Docker, and more.<br>📫 Let’s connect: LinkedIn | Email
+👨‍💻 Python Developer at AVB Invest – Investing in innovation by building scalable tech solutions for startups and high-growth businesses.<br>💡 Passionate about backend development, automation, and data-driven solutions to help businesses scale efficiently.<br>🔧 Tech Stack: Python, Django REST Framework, FastAPI, SQL/NoSQL, APIs,  Docker, and more.<br>
 
 
 ## 🌐 Socials:
